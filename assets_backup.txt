@@ -1,0 +1,3 @@
+cd	prak-arvr-kelompok05
+git	status
+mkdir	asset
